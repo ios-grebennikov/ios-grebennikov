@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+### Connect with me:
+
+[<img align="left" alt="Artem-Tomilo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[<img align="left" alt="Artem-Tomilo | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+
+[<img align="left" alt="Artem-Tomilo | Post" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][post]
+
+[linkedin]: https://www.linkedin.com/in/alexey-grebennikov-6996071a2
+[telegram]: http://t.me/Alexey_ios
+[post]: ios.grebennikov@gmail.com
+
 <!--
 **ios-grebennikov/ios-grebennikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
