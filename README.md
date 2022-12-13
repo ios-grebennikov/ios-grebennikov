@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Alexey and I'm an iOS Developer!
 
 ### Connect with me:
 
@@ -10,7 +10,7 @@
 
 [linkedin]: https://www.linkedin.com/in/alexey-grebennikov-6996071a2
 [telegram]: http://t.me/Alexey_ios
-[post]: ios.grebennikov@gmail.com
+[post]: mailto: ios.grebennikov@gmail.com
 
 <!--
 **ios-grebennikov/ios-grebennikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
