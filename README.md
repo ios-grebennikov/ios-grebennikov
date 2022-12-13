@@ -9,7 +9,7 @@
 [<img align="left" alt="Artem-Tomilo | Post" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][post]
 
 [linkedin]: https://www.linkedin.com/in/alexey-grebennikov-6996071a2
-[telegram]: http://t.me/Alexey_ios
+[telegram]: http://t.me/Alexey_iOS
 [post]: mailto:ios.grebennikov@gmail.com
 
 <!--
